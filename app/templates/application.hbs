@@ -1,0 +1,8 @@
+{{! templates/application.hbs }}
+{{! display logout button when the session is authenticated }}
+
+{{#if session.isAuthenticated}}
+  <a {{ action 'invalidateSession' }}>Logout</a>
+{{/if}}
+
+{{outlet}}
