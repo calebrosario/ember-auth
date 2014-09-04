@@ -45,6 +45,8 @@ Specify what it takes to deploy your app.
 
 * ember: http://emberjs.com/
 * ember-cli: http://www.ember-cli.com/
+* ember-cli-simple-auth : http://ember-simple-auth.simplabs.com/
+* ember-cli-simple-auth-oauth2 : https://github.com/simplabs/ember-cli-simple-auth-oauth2
 * Development Browser Extensions
   * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
   * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
